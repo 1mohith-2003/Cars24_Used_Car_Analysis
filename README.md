@@ -47,3 +47,13 @@ Python Visualizations
 Power BI Dashboard
       ↓
 Business Insights
+
+## 📊 Power BI Dashboard
+
+### Market Overview
+
+![Cars24 Market Overview](06_PowerBI/dashboard_screenshots/dashboard_market_overview.png)
+
+### Price Analysis
+
+![Cars24 Price Analysis](06_PowerBI/dashboard_screenshots/dashboard_price_analysis.png)
