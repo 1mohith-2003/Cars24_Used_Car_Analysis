@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium
+lxml
+matplotlib
+seaborn
+openpyxl
+python-docx
+python-pptx

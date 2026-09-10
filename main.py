@@ -1,0 +1,21 @@
+print("=" * 70)
+print("CARS24 USED CAR MARKET ANALYSIS")
+print("=" * 70)
+
+print()
+print("Project Pipeline")
+print("-" * 70)
+
+print("1. Web Scraping")
+print("2. Raw Data Extraction")
+print("3. Data Cleaning")
+print("4. Exploratory Data Analysis")
+print("5. Data Visualization")
+print("6. Power BI Dashboard")
+print("7. Project Report")
+print("8. Project Presentation")
+
+print()
+print("=" * 70)
+print("Project completed successfully!")
+print("=" * 70)
